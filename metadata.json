@@ -1,0 +1,7 @@
+{
+  "name": "Wanderlust Global Travel Agency",
+  "description": "Worldwide travel packages with personalized itineraries and 24/7 customer support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
